@@ -1,5 +1,5 @@
 
-//This is my C# tutorial using the most popular C# framework, the .Net Framework
+//This is my C# tutorial using the .Net Framework
 //A Framework, is a set of libraries, tools, methods, and different types
 //
 //C# Is an Object Oriented Programming Language (OOP), meaning it uses objects, such as classes, voids, and namespaces, to contain data
